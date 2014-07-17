@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Pluggy</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+      // Detect if the browser supports ES6 generators.
+      try { window.hasgens = eval("(function*(){yield true})().next().value"); }
+      catch (err) { window.hasgens = false; }
+    </script>
+    <script src="loader.js" async></script>
+  </head>
+  <body>
+  </body>
+</html>

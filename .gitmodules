@@ -1,0 +1,15 @@
+[submodule "tedit-regenerator"]
+	path = tedit-regenerator
+	url = git@github.com:creationix/tedit-regenerator.git
+[submodule "modules/js-git"]
+	path = modules/js-git
+	url = git@github.com:creationix/js-git.git
+[submodule "modules/js-github"]
+	path = modules/js-github
+	url = git@github.com:creationix/js-github.git
+[submodule "modules/bodec"]
+	path = modules/bodec
+	url = git@github.com:creationix/bodec.git
+[submodule "modules/git-sha1"]
+	path = modules/git-sha1
+	url = git@github.com:creationix/git-sha1.git
